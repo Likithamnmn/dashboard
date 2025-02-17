@@ -1,6 +1,6 @@
 import random
 
-print("Welcome to Connect Four")
+print("Welcome to Connect For")
 print("-----------------------")
 
 possibleLetters = ["A","B","C","D","E","F","G"]
